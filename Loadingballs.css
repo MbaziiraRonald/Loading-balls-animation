@@ -13,10 +13,6 @@ body {
     width: 1rem;
     border-radius: 50%;
     background-color: red;
-    /* box-shadow: 0 0 0 1px chocolate,
-                   0 0 0 12px steelblue,
-                   0 0 0 16px darkgreen,
-                   0 0 0 18px darkred; */
     display: inline-block;
     margin: .5rem;
     animation: jumping 6s ease forwards infinite;
